@@ -1,6 +1,4 @@
 # PROYECTO_FOTO_APP
-Aquí tienes una descripción para tu proyecto que podrías usar para explicar su propósito y funcionamiento:
-
 ---
 
 **Descripción del Proyecto:**
